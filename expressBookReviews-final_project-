@@ -1,0 +1,7 @@
+bookstore/
+├── booksdb.js
+├── server.js
+├── routes/
+│   ├── public_users.js
+│   ├── auth_users.js
+│   └── general.js
